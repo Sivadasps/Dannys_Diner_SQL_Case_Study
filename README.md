@@ -9,6 +9,7 @@ Danny wants to use the data to answer a few simple questions about his customers
 <img src=https://github.com/Sivadasps/Dannys_Diner_SQL_Case_Study/assets/127499100/37d5f97c-b9ce-4b38-ac85-f6fdeded909e width="600" height="350">
 
 ## Case Study Questions
+<details>
 1.What is the total amount each customer spent at the restaurant?<br>
 >
 2.How many days has each customer visited the restaurant?<br>
@@ -31,4 +32,4 @@ Danny wants to use the data to answer a few simple questions about his customers
 customer A and B have at the end of January?<br>
 >
 11.Join All The Things, Danny also requires further information about the ranking of customer products, but he purposely does not need the ranking for non-member purchases so he expects null ranking values for the records when customers are not yet part of the loyalty program.
-
+<details/>
