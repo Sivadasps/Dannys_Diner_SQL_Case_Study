@@ -1,5 +1,8 @@
-create database restaurant;
+-- DANNY'S DINER CASE STUDY SOLUTION
+
 -- CREATING DATA SET
+create database restaurant;
+
 
 CREATE TABLE sales (customer_id VARCHAR(1),order_date DATE,product_id INTEGER);
 
@@ -49,6 +52,9 @@ VALUES
   ('A', '2021-01-07'),
   ('B', '2021-01-09');
 
+
+
+-- SOLUTION
 -- 1. What is the total amount each customer spent at the restaurant ?
 select s.customer_id,sum(m.price) 
 from sales as s join menu as m
