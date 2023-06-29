@@ -5,5 +5,6 @@ View the <a href="https://8weeksqlchallenge.com/case-study-1/" target="_blank">C
 ## Business Task:
 Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite.
 
-![image](https://github.com/Sivadasps/Dannys_Diner_SQL_Case_Study/assets/127499100/f8d11133-4cf7-4509-a6f3-548634aa8050)
+<img src=https://github.com/Sivadasps/Dannys_Diner_SQL_Case_Study/assets/127499100/f8d11133-4cf7-4509-a6f3-548634aa8050>
+
 
